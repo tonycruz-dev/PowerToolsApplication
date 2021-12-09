@@ -1,0 +1,1 @@
+﻿Add-Migration InitialCreate  -Project  PowerTools.Database -OutputDir Data/Migrations
